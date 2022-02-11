@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/blang/semver v3.5.0+incompatible
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.0+incompatible
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
 	github.com/go-logr/logr v0.1.0
