@@ -16,11 +16,10 @@ require (
 	github.com/onsi/ginkgo v1.10.3
 	github.com/onsi/gomega v1.7.1
 	github.com/opencontainers/go-digest v1.0.0-rc1
-	github.com/pkg/errors v0.8.1
-	github.com/prometheus/client_golang v1.2.1 // indirect
+	github.com/pkg/errors v0.9.1
+	github.com/prometheus/client_golang v1.11.1 // indirect
 	github.com/talos-systems/talos v0.4.0-alpha.2.0.20200122012516-e7749d2e8fce
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
-	golang.org/x/xerrors v0.0.0-20191011141410-1b5146add898 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	google.golang.org/grpc v1.26.0
 	k8s.io/api v0.17.0
